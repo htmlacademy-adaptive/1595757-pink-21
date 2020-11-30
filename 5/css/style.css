@@ -1,0 +1,117 @@
+.advantages__list {
+  background: #f2f2f2;
+  font-family: sans-serif;
+  font-size: 14px;
+  line-height: 24px;
+}
+.advantages__list {
+  list-style: none;
+}
+.advantages__title {
+  background: #ffffff;
+  font-size: 24px;
+  line-height: 28.8px;
+}
+.advantages__item h3 {
+  background: #f2f2f2;
+  font-size: 18px;
+  line-height: 24px;
+}
+.advantages__description {
+  font-size: 14px;
+  line-height: 24px;
+}
+.main-nav {
+  background: #283645;
+  font-family: open-sans;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 32px;
+  color: white;
+  font-size: 10px;
+}
+.main-nav__list {
+  margin: 0px;
+}
+.main-nav__toggle {
+  margin-left: 40px;
+}
+.site-list__item {
+  list-style-type: none;
+}
+.site-list__item a {
+  text-decoration: none;
+  color: white ;
+}
+.app-download__title {
+  font-size: 24px;
+  font-style: open-sans;
+  font-weight: 300;
+  line-height: 28.8px;
+  color: white;
+  margin-top: 0px;
+}
+.app-download {
+  background: #1D2631;
+}
+.app-download p {
+  font-size: 14px;
+  color: white;
+  margin: 0px;
+}
+.visually-hidden {
+  display: none;
+}
+.reviews__author-name {
+  font-size: 18px;
+  line-height: 30px;
+  font-weight: 700;
+}
+.reviews__text {
+  font-size: 14px;
+  line-height: 30px;
+  font-weight: 400;
+}
+.contacts__title h2 {
+  font-size: 24px;
+  line-height: 28.8px;
+  font-weight: 300;
+}
+.contacts__list {
+  list-style: none;
+}
+.contacts__title h3 {
+  font-size: 18px;
+  line-height: 24.51px;
+  font-weight: 700;
+}
+.contacts__phone {
+  font-size: 24px;
+  line-height: 32.66px;
+  font-weight: 300;
+  color: red;
+}
+.contacts__email {
+  font-size: 24px;
+  line-height: 32.66px;
+  font-weight: 300;
+  color: red;
+}
+.contacts__adress {
+  font-size: 24px;
+  line-height: 32.66px;
+  font-weight: 300;
+  color: red;
+}
+body {
+  background: #ffffff;
+}
+.page-header {
+  background: #283645;
+}
+.page-header__logo {
+  background-color: white;
+  margin-left: 10px;
+}
+
+/*# sourceMappingURL=style.css.map */
